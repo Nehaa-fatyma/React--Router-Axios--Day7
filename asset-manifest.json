@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React--Router-Axios--Day7/static/css/main.1e1ec7b3.css",
+    "main.js": "/React--Router-Axios--Day7/static/js/main.aff14b9b.js",
+    "index.html": "/React--Router-Axios--Day7/index.html",
+    "main.1e1ec7b3.css.map": "/React--Router-Axios--Day7/static/css/main.1e1ec7b3.css.map",
+    "main.aff14b9b.js.map": "/React--Router-Axios--Day7/static/js/main.aff14b9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e1ec7b3.css",
+    "static/js/main.aff14b9b.js"
+  ]
+}
